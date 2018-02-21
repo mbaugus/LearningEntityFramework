@@ -10,6 +10,7 @@ namespace LearningEntityFramework
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
